@@ -20,11 +20,11 @@ This project provides a visual representation of the Bubble Sort algorithm using
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/amritBskt/bubble-sort-visualization.git
+    git clone https://github.com/amritBskt/Bubble-Sort-Visualization.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd bubble-sort-visualization
+    cd Bubble-Sort-Visualization
     ```
 3. Open the project in your IDE or text editor.
 
